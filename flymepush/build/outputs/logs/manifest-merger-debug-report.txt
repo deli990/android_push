@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:1-24:12
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:1:11-69
+uses-permission#com.meizu.flyme.push.permission.RECEIVE
+ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:10:5-95
+	android:name
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:10:22-76
+permission#com.deli.commonpush.push.permission.MESSAGE
+ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:12:9-67
+uses-permission#com.deli.commonpush.push.permission.MESSAGE
+ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:14:5-99
+	android:name
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:14:22-80
+uses-permission#com.meizu.c2dm.permission.RECEIVE
+ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:17:22-70
+permission#com.deli.commonpush.permission.C2D_MESSAGE
+ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:18:5-20:58
+	android:protectionLevel
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:19:9-66
+uses-permission#com.deli.commonpush.permission.C2D_MESSAGE
+ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml:21:22-79
+uses-sdk
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+		ADDED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\CommonPush\flymepush\src\main\AndroidManifest.xml

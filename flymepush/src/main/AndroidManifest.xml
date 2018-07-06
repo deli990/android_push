@@ -1,0 +1,24 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.deli.commonpush.flymepush">
+
+    //使用自己的包名来替换 com.deli.commonpush
+
+    //com.deli.commonpush 请用自己的包名替换掉
+
+    <!-- 兼容 flyme5.0 以下版本，魅族内部集成 pushSDK 必填，不然无法收到
+    消息-->
+    <uses-permission android:name="com.meizu.flyme.push.permission.RECEIVE"></uses-permission>
+    <permission
+        android:name="com.deli.commonpush.push.permission.MESSAGE"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="com.deli.commonpush.push.permission.MESSAGE"></uses-permission>
+
+    <!-- 兼容 flyme3.0 配置权限-->
+    <uses-permission android:name="com.meizu.c2dm.permission.RECEIVE" />
+    <permission
+        android:name="com.deli.commonpush.permission.C2D_MESSAGE"
+        android:protectionLevel="signature"></permission>
+    <uses-permission android:name="com.deli.commonpush.permission.C2D_MESSAGE" />
+
+
+</manifest>
